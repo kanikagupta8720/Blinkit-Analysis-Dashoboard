@@ -63,3 +63,4 @@ Chart type – Matrix Card
 
 
 Screenshot - 
+Dashboard Preview - (https://github.com/kanikagupta8720/Blinkit-Analysis-Dashoboard/blob/main/blinkit%20dashboard%20screenshot.png)
