@@ -1,11 +1,11 @@
-# Blinkit-Analysis-Dashoboard - 
+# Blinkit-Analysis Dashoboard - 
 A dynamic, interactive data visualization tool built to analyzes Blinkit’s sales performance, customer satisfaction, and inventory distribution.
 
 Purpose -
 This Power BI project presents a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. The goal is to uncover actionable insights and highlight areas for operational optimization using interactive dashboards and key performance indicators (KPIs).
 
 
-Tech Stack - 
+# Tech Stack - 
 The dashboard was built using the following tools and technologies:
 1) 📊 Power BI Desktop – Main data visualization platform used for report creation.
 2) 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
@@ -14,22 +14,22 @@ The dashboard was built using the following tools and technologies:
 5) 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-Features -
+# Features -
 1) Dynamic slicers for region, product, and time-based analysis.
 2) Sales vs. Inventory correlation visualizations
 3) Customer feedback categorization and sentiment insights
 4) High-level summary cards for KPIs like total sales, returns, satisfaction rate, etc.
 
 
-Walkthrough of Key Visuals -
-KPI's –
+# Walkthrough of Key Visuals -
+### KPI's –
 1.	Total Sales – the overall revenue generated from all items sold.
 2.	Average Sales – The average revenue per sale.
 3.	Number of Items – The total count of different items sold.
 4.	Average Rating – The average customer rating for items sold.
 
 
-Chart’s used– 
+### Chart’s used – 
 1). Total sales by fat content –
 Objective – Analyze the impact of fat content on total sales.
 Additional KPI metrics – Assess how other KPIs (Average sales, number of items, Average Rating) vary with far content.
